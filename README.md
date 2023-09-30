@@ -83,4 +83,4 @@ TODO: Write credits
 - VSCode
 
 ## Authors
-- **Hitesh** - _Frontend & Backend_ - [Hitesh](https://github.com/spyder7370)
+- **Vikas** - _Frontend & Backend_ - [Vikas]([https://github.com/kumarvik96)
